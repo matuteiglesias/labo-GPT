@@ -19,7 +19,7 @@ Gracias por contribuir a este repositorio de desafíos! Para mantener un ambient
 - Podes seguir la Guia de presentacion de desafios de la seccion que sigue.
 - Envía una solicitud de extracción (pull request).
 
-Al enviar tu contribución, aceptas que tu trabajo se publique bajo la licencia del repositorio y que otros puedan utilizarlo y modificarlo.
+Al enviar tu contribución, aceptas que tu trabajo se publique bajo la licencia del repositorio y que otres puedan utilizarlo y modificarlo.
 
 ## Presentacion de un Desafio
 
