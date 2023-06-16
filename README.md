@@ -48,7 +48,7 @@ Tenes que indicar el número estimado de personas que se espera que trabajen en 
 
 ## Lista de desafios
 
-Esta es una lista de los desafios disponibles hasta el momento:
+Esta es una lista de los desafios disponibles hasta el momento. Se ofrecen 3 ejemplos a modo de template orientativos.
 
 ### Nivel del agua: 
 
