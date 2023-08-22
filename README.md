@@ -107,10 +107,10 @@ En este desafío, se busca diseñar y compilar un dataset que contenga informaci
 
 - Repositorio Colaborativo de Investigaciones: Una plataforma web donde los investigadores puedan compartir, comentar y colaborar en investigaciones en curso.
 
-    Herramienta de Visualización de Citas: Una herramienta que muestre visualmente cómo se interconectan diferentes papers a través de citas y referencias.
+- Herramienta de Visualización de Citas: Una herramienta que muestre visualmente cómo se interconectan diferentes papers a través de citas y referencias.
 
 #### Educación:
 
-    Plataforma de Microcursos: Una web que ofrezca microcursos sobre diferentes temas, permitiendo a los usuarios aprender y evaluar sus conocimientos.
+- Plataforma de Microcursos: Una web que ofrezca microcursos sobre diferentes temas, permitiendo a los usuarios aprender y evaluar sus conocimientos.
 
-    Dataset de Tendencias Educativas: Recopilación de datos sobre tendencias en educación, como métodos pedagógicos emergentes, uso de tecnología y demanda de áreas de estudio.
+- Dataset de Tendencias Educativas: Recopilación de datos sobre tendencias en educación, como métodos pedagógicos emergentes, uso de tecnología y demanda de áreas de estudio.
