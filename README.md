@@ -13,6 +13,8 @@ Nota: Las contribuciones son bienvenidas de todos los miembros de la comunidad d
 
 ## Pautas de Contribución:
 
+Si tenes confianza con `git` podes intentas lo siguiente, caso contrario contactanos por mail.
+
 Gracias por contribuir a este repositorio de desafíos! Para mantener un ambiente colaborativo y organizado, te pedimos que sigas las siguientes pautas:
 
 - Crea un fork del repositorio y trabaja en tu propio 'branch'.
