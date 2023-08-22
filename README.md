@@ -61,3 +61,54 @@ El desafío implica encontrar mejoras en las rutas de las líneas de colectivo e
 ### Compilación de un dataset de grupos de investigación: 
 
 En este desafío, se busca diseñar y compilar un dataset que contenga información relevante sobre los grupos de investigación en la facultad. El objetivo es definir las variables y características que se incluirán en el dataset, así como recopilar datos de fuentes abiertas disponibles en la web. Este desafío requiere colaboración en la búsqueda y extracción de información, y puede incluir procesos de limpieza y validación de datos.
+
+
+### Algunas ideas extra:
+
+#### Ambiente:
+
+- Mapa Interactivo de Biodiversidad: Una página web que muestre la biodiversidad de diferentes regiones, permitiendo a los usuarios explorar especies y zonas en peligro.    
+
+- Dataset de Contaminación Urbana: Recopilar y estructurar un conjunto de datos que refleje niveles de contaminación en diferentes ciudades, incluyendo factores como calidad del aire, contaminación del agua, y residuos.
+
+#### Salud Mental:
+
+- Plataforma de Recursos y Testimonios: Una web donde las personas puedan compartir sus experiencias con diferentes trastornos y acceder a recursos educativos sobre salud mental.
+
+- Dataset de Indicadores de Bienestar: Recopilación de datos relacionados con factores de bienestar y salud mental en diferentes poblaciones y regiones.
+
+#### Transporte:
+
+- Simulador de Flujo Vehicular: Una herramienta web que simule el flujo vehicular en diferentes escenarios y proponga soluciones a congestiones.
+
+- Base de Datos de Infraestructuras de Transporte: Un conjunto de datos detallado sobre las infraestructuras de transporte (carreteras, estaciones, aeropuertos) de una región.
+
+#### Socioeconómico:
+
+- Visualizador de Desigualdades: Una página web que muestre gráficamente las desigualdades en diferentes áreas (educación, ingresos, acceso a servicios) en distintas regiones.
+
+- Dataset de Oportunidades Laborales: Recopilación y estructuración de datos sobre oportunidades de empleo, formación y emprendimiento en diferentes áreas y regiones.
+
+#### Económico/Macro Argentina:
+
+- Herramienta de Visualización Económica: Una plataforma web que permita visualizar diferentes indicadores económicos de Argentina y realizar comparativas.
+
+- Base de Datos de Comercio Exterior: Un conjunto de datos sobre importaciones, exportaciones, socios comerciales y productos principales.
+
+#### Análisis de Textos:
+
+- Plataforma de Análisis Sentimental: Una herramienta web que permita a los usuarios analizar el sentimiento y las emociones en textos introducidos.
+
+- Dataset de Análisis Lingüístico: Conjunto de datos que refleje el uso y evolución del lenguaje en diferentes contextos (redes sociales, literatura, medios).
+
+#### Papers Científicos:
+
+- Repositorio Colaborativo de Investigaciones: Una plataforma web donde los investigadores puedan compartir, comentar y colaborar en investigaciones en curso.
+
+    Herramienta de Visualización de Citas: Una herramienta que muestre visualmente cómo se interconectan diferentes papers a través de citas y referencias.
+
+#### Educación:
+
+    Plataforma de Microcursos: Una web que ofrezca microcursos sobre diferentes temas, permitiendo a los usuarios aprender y evaluar sus conocimientos.
+
+    Dataset de Tendencias Educativas: Recopilación de datos sobre tendencias en educación, como métodos pedagógicos emergentes, uso de tecnología y demanda de áreas de estudio.
