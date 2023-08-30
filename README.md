@@ -1,5 +1,9 @@
 # Bienvenido al Repositorio de Brainstorming de Desafíos!
 
+DOCS PARA AGREGAR TU DESAFIO FACILMENTE:
+
+https://docs.google.com/document/d/1xJ48Z761a7JNzWOm_N43NsDDnu_NTZekcIf26YGdf1Y/edit?usp=sharing
+
 Este repositorio sirve como un centro centralizado para compilar y colaborar con desafíos de programación para resolver colectivamente en la Facultad de Cs Exactas UBA. Creemos en el poder de la creatividad colectiva y la resolución de problemas, y este repositorio tiene como objetivo fomentar un enfoque colectivo para el diseño de desafíos.
 
 En este repositorio, hay una colección diversa de desafíos que abarcan diferentes dominios como algoritmos, estructuras de datos, inteligencia artificial, desarrollo web, desarrollo de aplicaciones móviles, desarrollo de juegos, problemas sociales y más. 
