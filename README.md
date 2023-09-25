@@ -68,6 +68,67 @@ El desafío implica encontrar mejoras en las rutas de las líneas de colectivo e
 
 En este desafío, se busca diseñar y compilar un dataset que contenga información relevante sobre los grupos de investigación en la facultad. El objetivo es definir las variables y características que se incluirán en el dataset, así como recopilar datos de fuentes abiertas disponibles en la web. Este desafío requiere colaboración en la búsqueda y extracción de información, y puede incluir procesos de limpieza y validación de datos.
 
+## Ideas de Brainstorming 30/08/23:
+
+1. **Guía turística virtual de Ciudad Universitaria**:
+   - Desarrollo de una aplicación con realidad aumentada para ayudar a ubicarse en Ciudad Universitaria.
+   - Foco en ingresantes del cbc.
+   - Posibilidad de integración con apps de movilidad.
+   - Uso de reconocimiento de imágenes para ubicación en un minimapa.
+
+2. **Mazo de cartas virtual**:
+   - Crear un playroom virtual con amigos.
+   - Opciones para repartir cartas, decidir mazos, excluir cartas, fin de ronda, etc.
+
+3. **Guía de materias simultáneas**:
+   - Interfaz que tome información del SIU de Exactas.
+   - Generar combinaciones de materias para coordinación de fechas de exámenes y horarios.
+
+4. **App de seguimiento de tiempo en dispositivos**:
+   - Trackear tiempo de uso en dispositivos como celular y computadora.
+   - Sugerencias para mejorar productividad.
+
+5. **Plataforma de creación de historias a partir de prompts**:
+   - Uso de generadores de texto e imagen para continuar y complementar historias.
+
+6. **Base de datos de medicamentos en centros de salud**:
+   - Foco en zonas rurales para facilitar acceso a medicamentos.
+
+7. **Conversión de voz con chatbot de Whatsapp**:
+   - Convertir voz a la de otra persona mediante audios.
+
+8. **Registro fit**:
+   - Algoritmo de seguimiento continuo del rendimiento deportivo.
+   - Monitoreo de aptitudes físicas en tiempo real.
+
+9. **Heladera Inteligente**:
+   - Reconocimiento de alimentos en la heladera.
+   - Listas de ingredientes para recetas y avisos de caducidad.
+
+10. **Robot Jardinero**:
+   - Reconocimiento de flora en el jardín.
+   - Riego y cuidado automatizado.
+
+11. **Mapa interactivo de incendios forestales**:
+   - Mapa de focos recurrentes de incendios en Argentina.
+   - Generación de métricas para remediar incendios rápidamente.
+
+12. **Roadmap inteligente**:
+   - Creación de roadmap personalizado para aspirar a profesiones específicas.
+
+13. **RED SOCIAL DE COLECTIVOS**:
+   - Informar sobre el paso y horario de colectivos en determinadas paradas.
+
+14. **UBER SOLIDARIO**:
+   - Conectar conductores y pasajeros según destinos y ubicaciones.
+
+15. **Desafíos Salud mental - Plataforma de Recursos y Testimonios**:
+   - Web para compartir experiencias sobre trastornos o síndromes.
+   - Regulación para evitar desinformación y métodos descartados.
+
+16. **Salud mental - Estimulación cognitiva**:
+   - Web o chat para interacción con IA y desarrollo cognitivo en personas con secuelas neurológicas.
+   - Personalización según áreas neuronales afectadas.
 
 ### Algunas ideas extra:
 
