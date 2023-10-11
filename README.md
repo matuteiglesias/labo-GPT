@@ -1,21 +1,25 @@
 # Bienvenido al Repositorio de Brainstorming de Desafíos!
 
-Este repositorio sirve como un centro centralizado para compilar y colaborar con desafíos de programación para resolver colectivamente en la Facultad de Cs Exactas UBA. Creemos en el poder de la creatividad colectiva y la resolución de problemas, y este repositorio tiene como objetivo fomentar un enfoque colectivo para el diseño de desafíos.
+Este repositorio sirve como un centro centralizado para compilar y colaborar con desafíos de programación para resolver colectivamente en la Facultad de Cs Exactas UBA. 
 
-En este repositorio, hay una colección diversa de desafíos que abarcan diferentes dominios como algoritmos, estructuras de datos, inteligencia artificial, desarrollo web, desarrollo de aplicaciones móviles, desarrollo de juegos, problemas sociales y más. 
+**[Carpeta compartida con materiales en google docs \
+](https://drive.google.com/drive/folders/1ttVy7uGt4m6dcG5STXV-tI1T5Nmp-8lw?usp=sharing)**
 
-Te invitamos a explorar los desafíos, contribuir tus ideas o proponer mejoras a los desafíos existentes. Ampliemos los límites de la programación y aprovechemos las oportunidades que ofrecen herramientas como ChatGPT y otras tecnologías de inteligencia artificial.
+Nos reunimos el segundo miercoles de cada mes en el Club de Datos organizado por Identidad y Proyecto Exactas. En el 2do cuatrimestre de 2023 el Club esta centrado en experimentar la programacion colectiva con apoyo de IA generativa. 
 
-Ya seas estudiante, graduado o profesional de la industria, este repositorio brinda una plataforma para colaborar colectivamente y tener un impacto positivo al abordar desafíos con aplicaciones al mundo real.
+Buscamos explorar la creatividad y el potencial colectivo! Este repositorio busca el enfoque colectivo para el diseño de desafíos y/o de productos de software de interes para nuestra comunidad y para la sociedad en general.
 
-Nota: Las contribuciones son bienvenidas de todos los miembros de la comunidad de programación. Por favor, segui las pautas de contribución proporcionadas en la documentación del repositorio.
+Con esto buscamos ampliar nuestros límites a la hora de programar explotando las posibilidades que ofrecen herramientas como ChatGPT y otras tecnologías de inteligencia artificial.
 
+En este repositorio, hay una colección diversa de desafíos que abarcan diferentes dominios como algoritmos, estructuras de datos, inteligencia artificial, desarrollo web, desarrollo de aplicaciones móviles y plataformas, problemas sociales y más. 
+
+Te invitamos a explorar los proyectos, contribuir tus ideas o proponer mejoras a las ideas existentes, ya seas estudiante, graduadx o profesional de la industria.
 
 ## Pautas de Contribución:
 
-Si tenes confianza con `git` podes intentas lo siguiente, caso contrario contactanos por mail.
+Este repositorio esta dedicado a la documentacion de los proyectos, pero el software se desarrolla en otros repositorios que pueden quedar linkeados en este Readme. Ya que los archivos de documentacion son md, se los puede editar en la web de github, si aun no estas familiarizadx con uso de `git`.
 
-Gracias por contribuir a este repositorio de desafíos! Para mantener un ambiente colaborativo y organizado, te pedimos que sigas las siguientes pautas:
+Si tenes confianza con `git` podes intentas lo siguiente, caso contrario contactanos por mail.
 
 - Crea un fork del repositorio y trabaja en tu propio 'branch'.
 - Podes seguir la Guia de presentacion de desafios de la seccion que sigue.
@@ -23,10 +27,9 @@ Gracias por contribuir a este repositorio de desafíos! Para mantener un ambient
 
 Al enviar tu contribución, aceptas que tu trabajo se publique bajo la licencia del repositorio y que otres puedan utilizarlo y modificarlo.
 
-
 ## Lista de desafios
 
-Esta es una lista de los desafios disponibles hasta el momento. Se ofrecen 3 ejemplos a modo orientativo.
+Esta es una lista de los desafios disponibles hasta el momento. Se ofrecen 3 ejemplos a modo orientativo. Estas ideas tienen un formato de problema o desafio a resolver. Otras ideas son en cambio una propuesta de software.
 
 ### Nivel del agua: 
 
