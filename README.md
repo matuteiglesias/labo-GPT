@@ -1,9 +1,5 @@
 # Bienvenido al Repositorio de Brainstorming de Desafíos!
 
-DOCS PARA AGREGAR TU DESAFIO FACILMENTE:
-
-https://docs.google.com/document/d/1xJ48Z761a7JNzWOm_N43NsDDnu_NTZekcIf26YGdf1Y/edit?usp=sharing
-
 Este repositorio sirve como un centro centralizado para compilar y colaborar con desafíos de programación para resolver colectivamente en la Facultad de Cs Exactas UBA. Creemos en el poder de la creatividad colectiva y la resolución de problemas, y este repositorio tiene como objetivo fomentar un enfoque colectivo para el diseño de desafíos.
 
 En este repositorio, hay una colección diversa de desafíos que abarcan diferentes dominios como algoritmos, estructuras de datos, inteligencia artificial, desarrollo web, desarrollo de aplicaciones móviles, desarrollo de juegos, problemas sociales y más. 
@@ -27,34 +23,10 @@ Gracias por contribuir a este repositorio de desafíos! Para mantener un ambient
 
 Al enviar tu contribución, aceptas que tu trabajo se publique bajo la licencia del repositorio y que otres puedan utilizarlo y modificarlo.
 
-## Presentacion de un Desafio
-
-Los desafios quedan definidos en archivos MarkDown (md) que es simplemente un texto (enriquecido para que se vea mas lindo). Como ayuda, si te ocupas de cubrir la mayoria de los aspectos que se listan a continuacion, vas a lograr un texto claro, ordenado y detallado con el cual se va a entender y poder abordar soluciones al desafio.
-
-**Introduccion**
-
-La introducción debe proporcionar una descripción clara y concisa del problema que se va a abordar. Es importante contextualizar el desafío y explicar su relevancia. Puedes incluir información sobre el contexto del problema, su impacto potencial o cualquier otro detalle relevante que ayude a los participantes a comprender la importancia y el alcance del desafío.
-
-**Descripción del Problema**
-
-En esta sección, debes proporcionar una descripción detallada del problema. Es importante ser claro y preciso en la explicación del problema a resolver. Puedes incluir cualquier información técnica o teórica necesaria para comprender completamente el problema y su enunciado.
-
-**Ayudas y Sugerencias**
-
-Esto puede incluir sugerencias sobre las herramientas o enfoques que pueden utilizar, fuentes de datos disponibles, bibliotecas o frameworks relevantes, algoritmos comunes que podrían aplicarse, o cualquier otro recurso que pueda ayudar en la resolución del problema. También puedes proporcionar enlaces o referencias a recursos externos que puedan ser útiles.
-
-**Requisitos de la Solución**
-
-Esto puede incluir el formato de salida esperado, restricciones de tiempo o espacio, reglas específicas que se deben seguir, o cualquier otro requisito necesario para considerar la solución como válida.
-
-**Equipo y Tiempo Estimado**
-
-Tenes que indicar el número estimado de personas que se espera que trabajen en el desafío y el tiempo estimado para su resolución. Esto ayudará a organizar tiempo y recursos. Tambien podes indicar el nivel de dificultad estimado del desafío. 
-
 
 ## Lista de desafios
 
-Esta es una lista de los desafios disponibles hasta el momento. Se ofrecen 3 ejemplos a modo de template orientativos.
+Esta es una lista de los desafios disponibles hasta el momento. Se ofrecen 3 ejemplos a modo orientativo.
 
 ### Nivel del agua: 
 
@@ -68,69 +40,46 @@ El desafío implica encontrar mejoras en las rutas de las líneas de colectivo e
 
 En este desafío, se busca diseñar y compilar un dataset que contenga información relevante sobre los grupos de investigación en la facultad. El objetivo es definir las variables y características que se incluirán en el dataset, así como recopilar datos de fuentes abiertas disponibles en la web. Este desafío requiere colaboración en la búsqueda y extracción de información, y puede incluir procesos de limpieza y validación de datos.
 
-## Ideas de Brainstorming 30/08/23:
+## Algunas de las ideas surgidas en el encuentro del 30/08/23:
 
-1. **Guía turística virtual de Ciudad Universitaria**:
-   - Desarrollo de una aplicación con realidad aumentada para ayudar a ubicarse en Ciudad Universitaria.
-   - Foco en ingresantes del cbc.
-   - Posibilidad de integración con apps de movilidad.
-   - Uso de reconocimiento de imágenes para ubicación en un minimapa.
+En el encuentro las ideas estuvieron mas orientadas al desarrollo de software. Se listan algunas a continuacion:
 
-2. **Mazo de cartas virtual**:
-   - Crear un playroom virtual con amigos.
-   - Opciones para repartir cartas, decidir mazos, excluir cartas, fin de ronda, etc.
+1. **[Guía Virtual de Ciudad Universitaria: \
+](https://docs.google.com/document/u/0/d/1ImnVg0OS0uPvR36fBChtIBveecyo60Gcf7BlBRRl5I8/edit)**
+    * Plataforma virtual que mapea Ciudad Universitaria, permitiendo a la comunidad marcar puntos de interés, eventos y compartir información relevante.
+    
+2. **[Guía de Materias Simultáneas: \
+](https://docs.google.com/document/u/0/d/1v-CZy--nHZ-_Xnk6K9ACCRDqSx2zj05GR5B5KlHBUvI/edit)**
+    * Herramienta que utiliza información del SIU de Exactas para generar combinaciones óptimas de materias, evitando conflictos de horarios y coordinando fechas de exámenes.
 
-3. **Guía de materias simultáneas**:
-   - Interfaz que tome información del SIU de Exactas.
-   - Generar combinaciones de materias para coordinación de fechas de exámenes y horarios.
+3. **[Plataforma de Creación de Historias: \
+](https://docs.google.com/document/u/0/d/1M7fGZzzv_kxdb476sv8jkvGpNCIMbGGCaufg73QQTVE/edit)**
+    * Plataforma que utiliza generadores de texto e imagen para ayudar a los usuarios a construir y complementar historias a partir de prompts iniciales.
 
-4. **App de seguimiento de tiempo en dispositivos**:
-   - Trackear tiempo de uso en dispositivos como celular y computadora.
-   - Sugerencias para mejorar productividad.
+4. **[Conversor de Voz Personalizado: \
+](https://docs.google.com/document/u/0/d/1pBcv4g_o31t6w5W0QPNqGCLPJ1TX_cy64yax494hdHo/edit)**
+    * Aplicación que permite a los usuarios enviar audios y recibir una versión transformada con la voz de celebridades u otros tonos elegidos.
 
-5. **Plataforma de creación de historias a partir de prompts**:
-   - Uso de generadores de texto e imagen para continuar y complementar historias.
+5. **[Mapa Interactivo de Incendios Forestales: \
+](https://docs.google.com/document/u/0/d/13KyalLfvhBw7EB_N3Cosc5pMgImQmz3qxVg3lU2gM34/edit)**
+    * Plataforma que muestra focos recurrentes de incendios forestales en Argentina, generando métricas para acciones preventivas y de respuesta rápida basadas en datos históricos.
 
-6. **Base de datos de medicamentos en centros de salud**:
-   - Foco en zonas rurales para facilitar acceso a medicamentos.
+6. **[Alumni: Plataforma de Destinos Laborales de FCEN](https://docs.google.com/document/u/0/d/1tgrSlRU0_onUvbhP4WuZonkUts-RuOU4q-fL_lxwQuc/edit)**
+    * 
 
-7. **Conversión de voz con chatbot de Whatsapp**:
-   - Convertir voz a la de otra persona mediante audios.
+7. **[Monitoreo de Colectivos en Ciudad Universitaria: \
+](https://docs.google.com/document/u/0/d/1VSAgQ6HB3fNoI5_8ncwc-9rPHeqIT5JK9nVR0Do5Yto/edit)**
+    * Sistema que utiliza sensores para monitorear en tiempo real los colectivos en Ciudad Universitaria, proporcionando información en vivo sobre tiempos de espera y recorridos.
 
-8. **Registro fit**:
-   - Algoritmo de seguimiento continuo del rendimiento deportivo.
-   - Monitoreo de aptitudes físicas en tiempo real.
+8. **[Nuestra Facultad en los Barrios: \
+](https://docs.google.com/document/u/0/d/1cUM4V83EQiEvnGNqsXisuWdYxgojVoyVPK6tBKCyggc/edit)**
+    * Plataforma de carpooling y red social para conectar a miembros de la comunidad de la facultad que viven en el mismo barrio, fortaleciendo lazos y fomentando la integración.
 
-9. **Heladera Inteligente**:
-   - Reconocimiento de alimentos en la heladera.
-   - Listas de ingredientes para recetas y avisos de caducidad.
+9. **[Bienestar Académico: Plataforma de Apoyo y Recursos: \
+](https://docs.google.com/document/u/0/d/1LCLLMLUjbIVEH5vdKuU3CiaCEPU_sfcSAzZpG5uC3-Y/edit)**
+    * Plataforma digital centrada en el bienestar y salud mental de la comunidad de la Facultad de Ciencias Exactas y Naturales, proporcionando un espacio de apoyo, recursos y herramientas adaptadas a sus desafíos académicos y científicos.
 
-10. **Robot Jardinero**:
-   - Reconocimiento de flora en el jardín.
-   - Riego y cuidado automatizado.
-
-11. **Mapa interactivo de incendios forestales**:
-   - Mapa de focos recurrentes de incendios en Argentina.
-   - Generación de métricas para remediar incendios rápidamente.
-
-12. **Roadmap inteligente**:
-   - Creación de roadmap personalizado para aspirar a profesiones específicas.
-
-13. **RED SOCIAL DE COLECTIVOS**:
-   - Informar sobre el paso y horario de colectivos en determinadas paradas.
-
-14. **UBER SOLIDARIO**:
-   - Conectar conductores y pasajeros según destinos y ubicaciones.
-
-15. **Desafíos Salud mental - Plataforma de Recursos y Testimonios**:
-   - Web para compartir experiencias sobre trastornos o síndromes.
-   - Regulación para evitar desinformación y métodos descartados.
-
-16. **Salud mental - Estimulación cognitiva**:
-   - Web o chat para interacción con IA y desarrollo cognitivo en personas con secuelas neurológicas.
-   - Personalización según áreas neuronales afectadas.
-
-### Algunas ideas extra:
+### Algunos ejemplos extra:
 
 #### Ambiente:
 
